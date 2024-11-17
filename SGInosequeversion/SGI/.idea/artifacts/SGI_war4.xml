@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="SGI:war4">
+    <output-path>$PROJECT_DIR$/out/artifacts/SGI_war4</output-path>
+    <root id="archive" name="SGI_war.war">
+      <element id="artifact" artifact-name="SGI:war exploded" />
+    </root>
+  </artifact>
+</component>
